@@ -4,7 +4,7 @@
 
 <p align = "justify">Analista de Sistemas, Diretor de Ciência, Tecnologia e Inovação. Amante de: Café, Whisky e Jogos Eletrônicos.</p>
 
-Atualmente trabalho em [FUNTEC Toledo]([https://www.funtec.toledo.pr.gov.br](https://funtec.toledo.pr.gov.br/))
+Atualmente trabalho em [FUNTEC Toledo](https://www.toledo.pr.gov.br)
 
 “Analista de TI explorando inovação na base do café e bugs sociais.”
 
