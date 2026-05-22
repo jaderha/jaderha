@@ -48,7 +48,7 @@ Atualmente trabalho em [FUNTEC Toledo](https://funtec.toledo.pr.gov.br)
 [![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)](https://www.vagrantup.com/)
-[![Wordpress](https://img.shields.io/badge/-wordpress-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://www.wordpress.com/)
+[![Wordpress](https://img.shields.io/badge/-wordpress-4e54e8?logo=wordpress&logoColor=white&style=for-the-badge)](https://www.wordpress.com/)
 
 
 ## 👨‍🎓 Formação acadêmica
