@@ -2,12 +2,11 @@
 
 ![Badge](https://img.shields.io/badge/IT-Analyst-cyan)
 
-<p align = "justify">Analista de Sistemas, Coordenador de Projetos de TI. Amante de: Café, Whisky e Jogos Eletrônicos.</p>
+<p align = "justify">Analista de Sistemas, Diretor de Ciência, Tecnologia e Inovação. Amante de: Café, Whisky e Jogos Eletrônicos.</p>
 
-Atualmente trabalho em [Prefeitura Municipal de Toledo](https://www.toledo.pr.gov.br)
+Atualmente trabalho em [FUNTEC Toledo](https://www.funtec.toledo.pr.gov.br)
 
-Aprendendo **Ruby on Rails, ReactJS, Clean Code, SOLID**
-
+“Analista de TI explorando inovação na base do café e bugs sociais.”
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jaderha/)](https://www.linkedin.com/in/jaderha/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/jaderha/?hl=pt-br)](https://instagram.com/jaderha)
@@ -53,7 +52,7 @@ Aprendendo **Ruby on Rails, ReactJS, Clean Code, SOLID**
 
 ## 👨‍🎓 Formação acadêmica
 
-- 🎓 <b>Pós-graduando</b> : Desenvolvimento de Aplicações para Web e Mobile - UNIPAR
+- 🎓 <b>Pós-graduado</b> : Desenvolvimento de Aplicações para Web e Mobile - UNIPAR
 - 🎓 <b>Graduação</b>: Bacharel em Sistemas de Informação - FAG
 - 🎓 <b>Graduação</b>: Tecnologia em Gestão Financeira - FASUL
 
@@ -61,10 +60,3 @@ Aprendendo **Ruby on Rails, ReactJS, Clean Code, SOLID**
 
 - 🔗 <b>LinkedIn</b>: https://www.linkedin.com/in/jaderha/
 - 📧 <b>E-mail</b>: jaderhericks@gmail.com
-
-## ⚡ GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaderha&hide=TeX&layout=compact)
-
-
-<b>Badges by:</b> https://github.com/Ileriayo/markdown-badges
